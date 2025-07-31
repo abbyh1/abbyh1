@@ -12,6 +12,6 @@ I'm participating in the Break Through Tech AI Fellowship, where I've learned ho
 
 ### 📫 How to Reach Me:
 * Email: abbyhuang143@gmail.com
-* [Linkedin: ](https://www.linkedin.com/in/abigail-huang/)
+* [Linkedin](https://www.linkedin.com/in/abigail-huang/)
 
 
