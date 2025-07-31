@@ -11,6 +11,7 @@ I'm participating in the Break Through Tech AI Fellowship, where I've learned ho
 * Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 
 ### 📫 How to Reach Me:
-abbyhuang143@gmail.com [Linkedin](https://www.linkedin.com/in/abigail-huang/)
+* Email: abbyhuang143@gmail.com
+* [Linkedin: ](https://www.linkedin.com/in/abigail-huang/)
 
 
