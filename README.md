@@ -1,4 +1,4 @@
-# Hi, I'm Abigail!
+<h1 align="center">Hi, I'm Abigail!</h1>
 I'm a sophomore at Stony Brook University majoring in computer science. I'm interested in machine learning, software engineering, and website development. 
 
 # What am I currently doing?
